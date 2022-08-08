@@ -122,14 +122,6 @@ p {
     font-size: 36px;
 }
 
-.section {
-    float:left;
-}
-
-.aside {
-    float:right;
-}
-
 .footer {
     padding: 30px;
     clear: both;
